@@ -10,5 +10,7 @@
     {{-- Portfolio primary --}}
     <x-frontend.portfolio :skills="$skills" :projects="$projects" />
     {{-- Services secondary --}}
+    <x-frontend.services />
     {{-- Contact primary --}}
+    <x-frontend.contact />
 </x-frontend-layout>
