@@ -1,6 +1,7 @@
-<section class="section flex items-center bg-light-primary dark:bg-dark-primary lg:h-[85vh] overflow-hidden">
+<section id="home"
+    class="section flex items-center bg-light-primary dark:bg-dark-primary lg:h-[85vh] overflow-hidden">
     <div class="container mx-auto h-full">
-        <div class="flex flex-col md:flex-row items-center h-full pt-8">
+        <div class="flex flex-col lg:flex-row items-center h-full pt-8">
             <div class="flex-1 flex flex-col items-center lg:items-start">
                 <p class="text-lg text-accent text-md mb-[22px]">Hey, I'm Tony! 👋</p>
                 <h1

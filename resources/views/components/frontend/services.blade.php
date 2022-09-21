@@ -1,4 +1,4 @@
-<section class="section bg-light-secondary dark:bg-dark-secondary">
+<section id="services" class="section bg-light-secondary dark:bg-dark-secondary">
     <div class="container mx-auto">
         <div class="flex flex-col items-center text-center">
             <h2 class="section-title">What I do for clients.</h2>
@@ -7,7 +7,7 @@
                 labore nisium illum cupiditate reiciendis a numquam
             </p>
         </div>
-        <div class="grid lg:grid-cols-4 gap-8">
+        <div class="grid md:grid-cols-2 md:gap-4 lg:grid-cols-4 lg:gap-8">
             <div class="bg-light-tail-100 dark:bg-dark-navy-500 p-6 rounded-2xl">
                 <div
                     class="

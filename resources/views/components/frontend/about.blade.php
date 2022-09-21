@@ -1,4 +1,4 @@
-<section class="section bg-light-secondary dark:bg-dark-secondary">
+<section id="about" class="section bg-light-secondary dark:bg-dark-secondary">
     <div class="container mx-auto">
         <div class="flex flex-col xl:flex-row gap-24">
             <img class="object-cover h-full w-[566px] md:mx-auto lg:mx-0 rounded-2xl" src="/img/about.jpeg"

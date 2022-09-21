@@ -1,4 +1,4 @@
-<section class="section bg-light-primary dark:bg-dark-primary">
+<section id="contact" class="section bg-light-primary dark:bg-dark-primary">
     <div class="container mx-auto">
         <div class="flex flex-col items-center text-center">
             <h2 class="section-title">Contact Me</h2>
@@ -7,7 +7,7 @@
                 labore nisium illum cupiditate reiciendis a numquam
             </p>
         </div>
-        <div class="flex flex-col lg:flex-row lg:gap-x-8">
+        <div class="flex flex-col md:flex-row md:gap-x-8">
             <div
                 class="flex flex-1 flex-col
                         items-start
