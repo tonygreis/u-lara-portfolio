@@ -10,7 +10,7 @@ class WelcomeController extends Controller
     public function __invoke()
     {
         $skills = Skill::all();
-        $projects = Project::all();
+        $projects = Project::with('skill')->get();
 
         return view('welcome', compact('skills', 'projects'));
     }
